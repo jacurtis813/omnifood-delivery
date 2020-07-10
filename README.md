@@ -47,3 +47,8 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 30. Use the pseudo selectors for the link and for the visited states of the buttons
 31. Use the psuedo selectors for the hover and the active states of the button with. interactive with the user
 32. Create all of our styles for the buttons within our header section
+
+33. Continue building the header for our website build, continue into lecture 3
+34. Clean up the CSS file and the HTML file to make things organized and concise
+35. Create our css comments, clean up and space out properly
+36. Create our html comments, clean up and format properly
