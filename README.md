@@ -43,4 +43,7 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 27. Create our styles for the main button class, before we begin the styling of each button
 28. Use psuedo selectors for our link buttons so that when a link has been visited the before and after will look the same
 
-29. 
+29. Continue using the psuedo selector classes with the stylesheet to make the page interactive with the users
+30. Use the pseudo selectors for the link and for the visited states of the buttons
+31. Use the psuedo selectors for the hover and the active states of the button with. interactive with the user
+32. Create all of our styles for the buttons within our header section
