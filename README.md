@@ -56,4 +56,11 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 37. We will now begin building the navigation bar within the header section of our page
 38. Create the navigation bar and as well create the image tag to drop in the logo of the webpage that we are using
 39. Create the float property for both the logo image and the nav bar that we are creating
-40. Resize the image for the logo to make the nav bar a bit more functional 
+40. Resize the image for the logo to make the nav bar a bit more functional
+
+41. Formatting the navigation bar from the start of the unordered lists, how to remove the bullets from the list elements
+42. Format the links within the navigation bar for all the links at the top of our header
+43. Create some space for the navigation bar and the logo icon within the page
+44. Creates styles that are psuedo selectors for the navigation bar list elements
+
+45. 
