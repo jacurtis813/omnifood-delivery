@@ -28,4 +28,9 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 15. Create the header div container- semantic html
 16. Create the background-image to start with the project 
 
-17. 
+17. Start the project by creating the header which is the beginning of our page and in this case will be grouped content
+18. The grouped content that is nested within the header will be the hero/ jumbotron that we are going to create
+19. Start with the hero.image as the background, overlay a linear gradient to give a darker contrast to the hero.image
+20. Next we will continue formatting the main heading along with the two buttons nested within the header
+
+21. Start video tutorial walk through the header part 2 section 
