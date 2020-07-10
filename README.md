@@ -34,3 +34,8 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 20. Next we will continue formatting the main heading along with the two buttons nested within the header
 
 21. Start video tutorial walk through the header part 2 section 
+22. Understanding how the relative sizing works as opposed to the absolute sizing
+23. Creat the class for the buttons overall, to style all buttons and then create specific name styles for each button
+24. Learn what the inline-block, the inline-block will not force a line break and will accept the properties of margin and padding
+
+25. 
