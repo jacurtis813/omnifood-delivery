@@ -18,4 +18,7 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 7. Create css styles, test cose to make sure they work
 8. Next, begin how to build the header for our new project
 
-9. 
+9. Begin by downloading all the files needed to begin the grid system
+10. Combine and condense all 12 files down to one useful css file to link within the html file
+11. Learning the semantic terms of header main and footer for the sections within the html file
+12. Test and run all linked files and documents to our webpage
