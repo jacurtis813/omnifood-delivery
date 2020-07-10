@@ -38,4 +38,9 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 23. Creat the class for the buttons overall, to style all buttons and then create specific name styles for each button
 24. Learn what the inline-block, the inline-block will not force a line break and will accept the properties of margin and padding
 
-25. 
+25. Distinguish the differences between the block, inline and inline-block
+26. Inline elements will not be affected by the margin and the padding, only the block elements and the inline-block elements can be assigned
+27. Create our styles for the main button class, before we begin the styling of each button
+28. Use psuedo selectors for our link buttons so that when a link has been visited the before and after will look the same
+
+29. 
