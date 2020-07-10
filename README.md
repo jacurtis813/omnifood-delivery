@@ -22,3 +22,10 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 10. Combine and condense all 12 files down to one useful css file to link within the html file
 11. Learning the semantic terms of header main and footer for the sections within the html file
 12. Test and run all linked files and documents to our webpage
+
+13. Learn how to give our div container meaning by using the semantic terms 
+14. Begin using the customer request ticket to start creating the landing page
+15. Create the header div container- semantic html
+16. Create the background-image to start with the project 
+
+17. 
