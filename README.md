@@ -52,3 +52,8 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 34. Clean up the CSS file and the HTML file to make things organized and concise
 35. Create our css comments, clean up and space out properly
 36. Create our html comments, clean up and format properly
+
+37. We will now begin building the navigation bar within the header section of our page
+38. Create the navigation bar and as well create the image tag to drop in the logo of the webpage that we are using
+39. Create the float property for both the logo image and the nav bar that we are creating
+40. Resize the image for the logo to make the nav bar a bit more functional 
