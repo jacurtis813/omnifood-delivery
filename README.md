@@ -69,4 +69,5 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 48. Comment the css files and make sure that all files are linked and referencing properly
 
 49. Create the next portion of the html file which is done by using the section tag/ element
-50. Begin building the columns like a pro, 
+50. Begin building the columns like a pro, build the columns with our content given to us, use all text, clear out content comment
+51. 
