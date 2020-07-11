@@ -98,6 +98,7 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 71. Create an image source for all the customer food favorites to begin building the grid with our images and create alt attributes for all the images shown in the grid
 72. After placing all the images, we will resize and style the images so that we can see the images within a grid rather than stacked on one another
 
-73. 
-74. 
+73. Start by creating some space from our grid of photos and the content above on the web page
+74. Start creating some animation using only the css styling, css3 properties such as; transform: scale and even overflow: hidden
+75. 
  

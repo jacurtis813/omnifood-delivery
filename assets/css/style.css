@@ -138,6 +138,10 @@ h2:after {
 /* End of Section */
 
 /* 2nd Section Content */
+.section-meals {
+    padding: 0;
+}
+
 .meals-showcase {
     list-style: none;
     width: 100%;
@@ -152,12 +156,18 @@ h2:after {
 .meal-photo {
     width: 100%;
     margin: 0;
-
+    overflow: hidden;
 }
 
 .meal-photo img { 
     width: 100%;
+    height: auto;
+    transform: scale(1.15);
+    transition: transform 0.5s;
+}
 
+.meal-photo img:hover {
+    transform: scale(1.03);
 }
 /* End of Section */
 
