@@ -92,4 +92,12 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 66. Create a new class for the icons so that we can adjust the sizing, we should do that with our own class and values
 67. Create the class for the icon fonts, so that we can apply our own styles to those fonts
 68. Begin creating the styles that the customer has requested within the document
+
+69. Learn how to create the grid using images, we will do this all the while learning a new html element of figure
+70. Must perform MDN docs search to get a better understanding for what this element is and what it does
+71. Create an image source for all the customer food favorites to begin building the grid with our images and create alt attributes for all the images shown in the grid
+72. After placing all the images, we will resize and style the images so that we can see the images within a grid rather than stacked on one another
+
+73. 
+74. 
  

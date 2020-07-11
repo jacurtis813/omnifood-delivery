@@ -111,7 +111,7 @@ h1 {
 
 
 /*----------------------------*/
-/* Section Content */
+/* 1st Section Content */
 /*----------------------------*/
 h2 {
     font-size: 180%;
@@ -134,6 +134,30 @@ h2:after {
     width: 100px;
     margin: 0 auto;
     margin-top: 30px;
+}
+/* End of Section */
+
+/* 2nd Section Content */
+.meals-showcase {
+    list-style: none;
+    width: 100%;
+}
+
+.meals-showcase li {
+    display: block;
+    float: left;
+    width: 25%;
+}
+
+.meal-photo {
+    width: 100%;
+    margin: 0;
+
+}
+
+.meal-photo img { 
+    width: 100%;
+
 }
 /* End of Section */
 
@@ -162,7 +186,7 @@ h2:after {
     display: block;
     color: #e67e22;
     margin-bottom: 10px;
-    
+
 }
 
 
