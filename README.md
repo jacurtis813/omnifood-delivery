@@ -74,4 +74,6 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 52. Dowload the content from the site and then save the content needed to build the site within our folders for vendors
 
 53. Use the i tag to call upon the icon or in our case we are using the font icon style for better visual
-54. 
+54. Discussed the issue that I was having with another student in Udemy and we found the issue with the icons not loading
+55. Must connect the script into the html file to call upon the icons that we would like to use from ionicons framework
+56. Delete all files that are no longer needed at this time, condense all our files to keep things as clean and understandable
