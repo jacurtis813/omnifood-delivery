@@ -63,4 +63,7 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 43. Create some space for the navigation bar and the logo icon within the page
 44. Creates styles that are psuedo selectors for the navigation bar list elements
 
-45. 
+45. Create the comments in the html file to organize the file a little better for future structuring and formatting
+46. Condense and simplify the css files all down to one more extension file rather than 10 to 12 toatl additions to follow
+47. Correct the link rel and href for the new condensed grid.css file
+48. Comment the css files and make sure that all files are linked and referencing properly
