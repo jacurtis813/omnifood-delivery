@@ -67,3 +67,6 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 46. Condense and simplify the css files all down to one more extension file rather than 10 to 12 toatl additions to follow
 47. Correct the link rel and href for the new condensed grid.css file
 48. Comment the css files and make sure that all files are linked and referencing properly
+
+49. Create the next portion of the html file which is done by using the section tag/ element
+50. Begin building the columns like a pro, 
