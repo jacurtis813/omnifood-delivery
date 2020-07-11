@@ -73,4 +73,5 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 51. Build the 1st section for the customer request overview, format the content first and then we will begin formatting the icons
 52. Dowload the content from the site and then save the content needed to build the site within our folders for vendors
 
-53. 
+53. Use the i tag to call upon the icon or in our case we are using the font icon style for better visual
+54. 
