@@ -106,5 +106,11 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 77. Create further animation with the images within our grid systems, using the opacity property and psuedo selectors
 78. Create more white space within our web page around the features content and the icons for those features
 79. We will now create the how it works section, creating the how to order food section for the user side
-80. 
- 
+80. Correct the comments for the css file and for the html file, save all changes and commit
+
+81. Create the third section for the web page this will include the how it works section content
+82. Create the images for the third section, the image for the button to app store and the image of the app on the IPHONE, use all the content give to us within the third section
+83. Create the images for the third section, the image for the button to app store and the image of the app on the ANDRIOD, use all the content give to us within the third section
+84. Start styling the images and the buttons within the web page for the iphon and the app buttons
+
+85. 
