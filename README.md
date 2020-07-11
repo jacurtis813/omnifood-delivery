@@ -70,4 +70,7 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 
 49. Create the next portion of the html file which is done by using the section tag/ element
 50. Begin building the columns like a pro, build the columns with our content given to us, use all text, clear out content comment
-51. 
+51. Build the 1st section for the customer request overview, format the content first and then we will begin formatting the icons
+52. Dowload the content from the site and then save the content needed to build the site within our folders for vendors
+
+53. 
