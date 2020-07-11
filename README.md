@@ -87,3 +87,9 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 62. Create line spacing and line height for the paragraph with class of long copy
 63. Create styling properties and values for the lon copy paragraph, adjust the width, than adjust the margin, apply text align
 64. Correct all the comments within the css file to simplify all styles that can be reused
+
+65. Create the class box for each column within the div container, begin styling the class, adjust the typography on the page
+66. Create a new class for the icons so that we can adjust the sizing, we should do that with our own class and values
+67. Create the class for the icon fonts, so that we can apply our own styles to those fonts
+68. Begin creating the styles that the customer has requested within the document
+ 
