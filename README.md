@@ -85,3 +85,5 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 
 61. Create some margin for the line that we have created in the css file
 62. Create line spacing and line height for the paragraph with class of long copy
+63. Create styling properties and values for the lon copy paragraph, adjust the width, than adjust the margin, apply text align
+64. Correct all the comments within the css file to simplify all styles that can be reused

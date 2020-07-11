@@ -1,5 +1,6 @@
 /*----------------------------*/
 /*Opening HTML styles*/
+/*----------------------------*/
 
 * {
     margin: 0;
@@ -15,6 +16,23 @@ html {
     font-size: 20px;
     text-rendering: optimizeLegibility;
 }
+/*End Of html*/
+
+
+/*----------------------------*/
+/* Reusable styles */
+/*----------------------------*/
+.row {
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
+
+section {
+    padding: 80px 0;
+}
+
+/* End of Reusable */
 
 
 /*----------------------------*/
@@ -36,12 +54,11 @@ header {
 }
 
 h1, 
-h2 {
+h2,
+h3 {
     
     font-weight: 300;
     text-transform: uppercase;
-    letter-spacing: 1px;
-    
 }
 
 h1 {
@@ -50,25 +67,8 @@ h1 {
     color: #fff;
     font-size: 240%;
     word-spacing: 3px;
+    letter-spacing: 1px;
 }
-
-h2 {
-    font-size: 180%;
-    word-spacing: 2px;
-    text-align: center;
-    margin-bottom: 30px;
-}
-
-h2:after {
-    display: block;
-    content: " ";
-    height: 2px;
-    background-color: #e67e22;
-    width: 100px;
-    margin: 0 auto;
-    margin-top: 30px;
-}
-
 
 .logo {
     margin-top: 20px;
@@ -105,27 +105,49 @@ h2:after {
 }
 /*End of Header*/
 
+
 /*----------------------------*/
-/*Paragraphs*/
+/* Section Content */
+/*----------------------------*/
+h2 {
+    font-size: 180%;
+    word-spacing: 2px;
+    text-align: center;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
+
+h3 {
+    font-size: 110%;
+    margin-bottom: 15px;
+}
+
+h2:after {
+    display: block;
+    content: " ";
+    height: 2px;
+    background-color: #e67e22;
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+/* End of Section */
+
+/*----------------------------*/
+/* Paragraph Content*/
+/*----------------------------*/
 .long-copy {
     line-height: 145%;
+    width: 70%;
+    margin-left: 15%;
+    text-align: center;
 }
+/* End Of Paragraph */
+
 
 /*----------------------------*/
-
-
+/* Buttons Content */
 /*----------------------------*/
-/* Reusable Content */
-/*----------------------------*/
-.row {
-    max-width: 1140px;
-    margin: 0 auto;
-
-}
-
-section {
-    padding: 80px 0;
-}
 
 .btn:link,
 .btn:visited {
@@ -167,6 +189,5 @@ section {
     border: 1px solid #cf6d17;
     color: #fff;
 }
-
-/*End of Reusable*/
+/* End of Buttons */
 
