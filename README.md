@@ -113,4 +113,7 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 83. Create the images for the third section, the image for the button to app store and the image of the app on the ANDRIOD, use all the content give to us within the third section
 84. Start styling the images and the buttons within the web page for the iphon and the app buttons
 
-85. 
+85. Create another class to begin styling each column that we have now created for our third section
+86. Use a new type of selector within the psuedo selector called the :first-child and :last-child selectors to style each individually
+87. A useful tip that we have now used within the third section is the text-align property, this property will work on text of course and as well this property will work on inline elements as well performing the same task
+88. 
