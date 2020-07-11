@@ -64,7 +64,11 @@ h2:after {
     content: " ";
     height: 2px;
     background-color: #e67e22;
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 30px;
 }
+
 
 .logo {
     margin-top: 20px;
@@ -100,6 +104,14 @@ h2:after {
     border-bottom: 2px solid #e67e22;
 }
 /*End of Header*/
+
+/*----------------------------*/
+/*Paragraphs*/
+.long-copy {
+    line-height: 145%;
+}
+
+/*----------------------------*/
 
 
 /*----------------------------*/

@@ -82,3 +82,6 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 58. We will use the padding property to give white space around the section element, we would normally use the margin property but we would like to add more to the page later on
 59. Combine and condense styles that can be used for both the h1 and the h2 elements with and breakdown individual styles
 60. Create a line after the h2 element using the after psuedo class selector, remember that when using the after psuedo selector we must always specify the content and display
+
+61. Create some margin for the line that we have created in the css file
+62. Create line spacing and line height for the paragraph with class of long copy
