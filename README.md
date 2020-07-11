@@ -116,4 +116,9 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 85. Create another class to begin styling each column that we have now created for our third section
 86. Use a new type of selector within the psuedo selector called the :first-child and :last-child selectors to style each individually
 87. A useful tip that we have now used within the third section is the text-align property, this property will work on text of course and as well this property will work on inline elements as well performing the same task
-88. 
+88. Creating some padding and the width into percentages so that the images are responsive with the layout of the viewport itself
+
+89. Resize the images that we have used in the how it works of the third section, we will be using the percentages rather than stating the exact pixel. this makes the site more responsive for the user
+90. Create styles to start formatting the steps of how it works, using the display property for the inline-block value this will allow us to keep the number next to the actual content
+91. Create the styles to make the number held within a circlular border, make the content appear to the right of the number shown for each step. Number on the left and content on the right
+92. Use a new psuedo selector to help with some white space on the page, we will use the :last-of-type selector to choose which we are assigning to
