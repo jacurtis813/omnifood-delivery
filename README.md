@@ -77,3 +77,8 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 54. Discussed the issue that I was having with another student in Udemy and we found the issue with the icons not loading
 55. Must connect the script into the html file to call upon the icons that we would like to use from ionicons framework
 56. Delete all files that are no longer needed at this time, condense all our files to keep things as clean and understandable
+
+57. Update the script element for the icons that we are using within our web page to the newest and latest versions
+58. We will use the padding property to give white space around the section element, we would normally use the margin property but we would like to add more to the page later on
+59. Combine and condense styles that can be used for both the h1 and the h2 elements with and breakdown individual styles
+60. Create a line after the h2 element using the after psuedo class selector, remember that when using the after psuedo selector we must always specify the content and display
