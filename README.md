@@ -140,3 +140,5 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 
 105. Create the section five for the customer testimonials the customers voice and their image to reside with their statements
 106. Set the columns up so that each customer has their own space to have their voice and their face shown on the sit for all users
+107. Create the class for the section of testimonials and begin to style this section, start with the background layout of the section, use a new property and value called the background: attachment which will leave that selected background image in place, style the font color to make the text visible to the user
+108. Begin styling the testimonial section of the content, style the blockquote element and the cite element, as well as applying changes to the image of the author for the quote
