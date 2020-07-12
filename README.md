@@ -138,4 +138,5 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 103. Create a link for each of the twitter account names, begin styling with psuedo classes to show more responsiveness with the user
 104. Remove the border bottom that has been applied to the button links for the iphone app and google play stores 
 
-105. 
+105. Create the section five for the customer testimonials the customers voice and their image to reside with their statements
+106. Set the columns up so that each customer has their own space to have their voice and their face shown on the sit for all users
