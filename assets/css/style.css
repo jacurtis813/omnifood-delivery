@@ -311,6 +311,25 @@ cite img {
 
 
 /*----------------------------*/
+/* Sign Up content */
+/*----------------------------*/
+.section-plans {
+    background-color: #f4f4f4 ;
+}
+
+.plan-box {
+    background-color: #fff;
+    border-radius: 5px;
+    width: 90%;
+    margin-left: 5%;
+}
+
+
+
+/* End of Sign Up */
+
+
+/*----------------------------*/
 /* Icon Content */
 /*----------------------------*/
 .icon-big {

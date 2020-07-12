@@ -147,3 +147,8 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 110. Begin styling the quote marks around the content using some css tricks because this is a little harder than just adding in quotes
 111. Use the psuedo class selector to apply styles before the element this time rather than after or with an affect with the user, apply these style changes to make a quote mark and set the marking properly before the customer quote
 112. Test and run all the code that we have now built for the customer testimonial setting
+
+113. Begin building the sixth section of our web page, we will begin by creating the mock up that we are going to use with all three columns
+114. Create the content needed for all three columns, use the same mock to keep the page uniform and looking good
+115. Format the entire html content for the new section that we are building before we begin styling this content
+116. Begin formatting the style for the section of three columns, save all the changes 
