@@ -16,6 +16,15 @@ html {
     font-size: 20px;
     text-rendering: optimizeLegibility;
 }
+
+.clearfix {zoom: 1}
+.clearfix:after {
+    content: '.';
+    clear: both;
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
 /*End Of html*/
 
 
@@ -206,6 +215,9 @@ h2:after {
 /*----------------------------*/
 /* How it works Content */
 /*----------------------------*/
+.section-steps {
+    background-color: #f4f4f4;
+}
 .steps-box:first-child {
     text-align: right;
     padding-right: 3%;

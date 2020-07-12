@@ -122,3 +122,8 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 90. Create styles to start formatting the steps of how it works, using the display property for the inline-block value this will allow us to keep the number next to the actual content
 91. Create the styles to make the number held within a circlular border, make the content appear to the right of the number shown for each step. Number on the left and content on the right
 92. Use a new psuedo selector to help with some white space on the page, we will use the :last-of-type selector to choose which we are assigning to
+
+93. Correct the unordered list, divide into two sections of four images each within the list
+94. Correct the margin and some padding on the page to help create some white space within the page make it look presentable
+95. Comment the css file to show the style placement from the stylesheet keep the file clean
+96. Use a clearfix selector that was built to help us while using the float property
