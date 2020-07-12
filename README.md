@@ -136,3 +136,6 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 101. Create the style ajustments to all the images in the fourth section, this being the cities images, apply the changes to the width, height and apply the margin bottom to give space 
 102. Create a class name for the icons for the content on our city images, begin styling, apply the inline block value so that we can style the image to center value of the text align property, being that it is an icon element (inline)
 103. Create a link for each of the twitter account names, begin styling with psuedo classes to show more responsiveness with the user
+104. Remove the border bottom that has been applied to the button links for the iphone app and google play stores 
+
+105. 
