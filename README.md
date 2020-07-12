@@ -127,3 +127,8 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 94. Correct the margin and some padding on the page to help create some white space within the page make it look presentable
 95. Comment the css file to show the style placement from the stylesheet keep the file clean
 96. Use a clearfix selector that was built to help us while using the float property
+
+97. Begin building the fourth section, titled for the we're in these cities section
+98. Build the beginning of the first city which is lisbon, begin applying icons for all the city content
+99. Build in all four cities that are now using this application or site and the content to fill each city container
+100. Began formatting each city with icons and into their own columns and rows
