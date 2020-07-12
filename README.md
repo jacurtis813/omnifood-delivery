@@ -142,3 +142,8 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 106. Set the columns up so that each customer has their own space to have their voice and their face shown on the sit for all users
 107. Create the class for the section of testimonials and begin to style this section, start with the background layout of the section, use a new property and value called the background: attachment which will leave that selected background image in place, style the font color to make the text visible to the user
 108. Begin styling the testimonial section of the content, style the blockquote element and the cite element, as well as applying changes to the image of the author for the quote
+
+109. Create the styling to the font in the customer testimonial section, create the appearance of an actual quote from the customer
+110. Begin styling the quote marks around the content using some css tricks because this is a little harder than just adding in quotes
+111. Use the psuedo class selector to apply styles before the element this time rather than after or with an affect with the user, apply these style changes to make a quote mark and set the marking properly before the customer quote
+112. Test and run all the code that we have now built for the customer testimonial setting
