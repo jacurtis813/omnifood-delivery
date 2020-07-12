@@ -254,6 +254,11 @@ h2:after {
     margin-bottom: 80px;
 }
 
+.btn-app:link,
+.btn-app:visited {
+    border-bottom: none;
+}
+
 .btn-app img {
     height: 50px;
     width: auto;
@@ -261,6 +266,21 @@ h2:after {
 }
 
 /* End of How it Works */
+
+/*----------------------------*/
+/* Cities */
+/*----------------------------*/
+.box img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.city-feature {
+    margin-bottom: 5px;
+}
+
+/* End of Cities*/
 
 /*----------------------------*/
 /* Icon Content */
@@ -272,7 +292,41 @@ h2:after {
     margin-bottom: 10px;
 
 }
+
+.icon-small {
+    color: #e67e22;
+    font-size: 120%;
+    display: inline-block;
+    width: 30px;
+    text-align: center;
+    margin-right: 10px;
+
+    /* secrets to align the text */
+    line-height: 110%;
+    vertical-align: middle;
+    margin-top: -5px;
+    
+}
 /* End of Icons */
+
+/*----------------------------*/
+/* Links Content */
+/*----------------------------*/
+a:link,
+a:visited {
+    color: #e67e22;
+    text-decoration: none;
+    border-bottom: 1px solid #e67e22;
+    padding-bottom: 1px;
+    transition: border-bottom 0.2s, color 0.2s;
+}
+
+a:hover,
+a:active {
+    color: #555;
+    border-bottom: 1px solid transparent;
+}
+
 
 /*----------------------------*/
 /* Buttons Content */

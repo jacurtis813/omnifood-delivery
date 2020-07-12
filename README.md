@@ -132,3 +132,7 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 98. Build the beginning of the first city which is lisbon, begin applying icons for all the city content
 99. Build in all four cities that are now using this application or site and the content to fill each city container
 100. Began formatting each city with icons and into their own columns and rows
+
+101. Create the style ajustments to all the images in the fourth section, this being the cities images, apply the changes to the width, height and apply the margin bottom to give space 
+102. Create a class name for the icons for the content on our city images, begin styling, apply the inline block value so that we can style the image to center value of the text align property, being that it is an icon element (inline)
+103. Create a link for each of the twitter account names, begin styling with psuedo classes to show more responsiveness with the user
