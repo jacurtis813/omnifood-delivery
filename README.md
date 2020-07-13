@@ -152,3 +152,8 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 114. Create the content needed for all three columns, use the same mock to keep the page uniform and looking good
 115. Format the entire html content for the new section that we are building before we begin styling this content
 116. Begin formatting the style for the section of three columns, save all the changes 
+
+117. Understanding the structure of our div containers and why we have done what we have done, these containers will help us get the styles that we are looking to give the web page the design that we are looking for. remember the site is not just to hold the content, both the code formatting the page and the actual landing page must be beautiful
+118. Continue creating the styles for the sixth section of the content within the html file, style the pricing and the sign up section, apply a border to act like the divder, apply the padding to give some space to the element
+119. Create the styles for each div container, creating their own font-sizes and font-weights, use the list-style property to assign the value of none to remove the bullet points within the unordered lists
+120. Create ths styles for the icons usingh the class that we have already created, using the icon small class, as well learn a new tool that will allow us for multiline styling, 
