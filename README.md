@@ -156,4 +156,7 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 117. Understanding the structure of our div containers and why we have done what we have done, these containers will help us get the styles that we are looking to give the web page the design that we are looking for. remember the site is not just to hold the content, both the code formatting the page and the actual landing page must be beautiful
 118. Continue creating the styles for the sixth section of the content within the html file, style the pricing and the sign up section, apply a border to act like the divder, apply the padding to give some space to the element
 119. Create the styles for each div container, creating their own font-sizes and font-weights, use the list-style property to assign the value of none to remove the bullet points within the unordered lists
-120. Create ths styles for the icons usingh the class that we have already created, using the icon small class, as well learn a new tool that will allow us for multiline styling, 
+120. Create ths styles for the icons usingh the class that we have already created, using the icon small class, as well learn a new tool that will allow us for multiline styling, and multiline editing
+
+121. Create the box shadow property within the css for create within the plan-box class, there are four value inputs for this property, x value, y value, blur and color are all the input values needed,
+122. Create the contact form for the seventh section of the web page, 
