@@ -174,4 +174,5 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 132. Creat some space around the check box for the newsletter and remove the defaulted styles from google chrome, we are using a new selector that will call upon the input [type=text] we can call on any types
 
 133. Begin building the footer for the webpage, creating two naviagtion in the footer, and further the practice with using the icons
-134. 
+134. Begin building the two navigations that we would like to set within section eight or the footer of the file, using two columns for obvious reasons to format this section, use new icons in place of our social media sites, using an anchor tag
+135. Create another div within the footer to begin building an area for the copyrights of the page that will be embedded, 
