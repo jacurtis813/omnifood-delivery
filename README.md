@@ -1,5 +1,6 @@
 # omnifood-delivery
 A project build: Use a client ticket to build those requests. Self-Taught Continued
+All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 with Jonas Schmedtmann, code along and apply a little of your own style to the page.
 
 ## Requests:
 
@@ -175,4 +176,10 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 
 133. Begin building the footer for the webpage, creating two naviagtion in the footer, and further the practice with using the icons
 134. Begin building the two navigations that we would like to set within section eight or the footer of the file, using two columns for obvious reasons to format this section, use new icons in place of our social media sites, using an anchor tag
-135. Create another div within the footer to begin building an area for the copyrights of the page that will be embedded, 
+135. Create another div within the footer to begin building an area for the copyrights of the page that will be embedded
+136. Next portion of the build we will align the footer nav and the social nav  navigations, we will remove the bullets and the border that has been pre assigned with the property that we have reused
+
+137. Begin styling the footer, start with the background color and then the text color
+138. Create the styles for the footer nav class and the social nav class that are within the footer navigations
+139. Create in depth styling to the unordered list at the footer to creat the spacing that we want to properly fit the container of which holds the content, using the psuedo selector to assign the properties and values needed. hover, active, link, and visited
+140. Create further psuedo selectors for the hover and active psuedo classes for the footer nav and the social nav links, apply class to the author name of th web page

@@ -402,6 +402,64 @@ input[type=checkbox] {
 
 
 /*----------------------------*/
+/* Footer Content */
+/*----------------------------*/
+footer {
+    background-color: #333;
+    padding: 60px;
+}
+
+footer p {
+    color: #888;
+    text-align: center;
+    font-size: 80%;
+}
+
+.footer-nav {
+    list-style: none;
+    float: left;
+}
+
+.social-nav {
+    list-style: none;
+    float: right;
+}
+
+.footer-nav li,
+.social-nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.footer-nav li:last-child,
+.social-nav li:last-child {
+    margin-right: 0;
+}
+
+.footer-nav li a:link,
+.footer-nav li a:visited,
+.social-nav li a:link,
+.social-nav li a:visited {
+    text-decoration: none;
+    border: none;
+    color: #888;
+    transition: color 0.3s;
+}
+
+.footer-nav li a:hover,
+.footer-nav li a:active,
+.social-nav li a:hover,
+.social-nav li a:active {
+    color: #ddd;
+}
+
+.row p span {
+    color: #e67e22;
+}
+/* Footer Content */
+
+
+/*----------------------------*/
 /* Icon Content */
 /*----------------------------*/
 .icon-big {
