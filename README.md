@@ -168,4 +168,8 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 127. Create a drop down box within the web page to show multiple selections for this label, apply multiple answers to choose from within the form
 128. Create the text area container for a larger text box to type and to send an emailed message to the link set to our send it button, create the send it button 
 
-129. 
+129. Begin styling the seventh section of the web page, the form section. Start by resizing the form to fit within 60% of its parent container and then use the margin property to center the element within its parent container, and resize the input elements to fit the entire area
+130. Create the styles for each input of the form element to give white space and creative look
+131. Creat the styles for the text area and for the send it button to make the button look similar to the rest on the page using styles that we have already created
+132. Creat some space around the check box for the newsletter and remove the defaulted styles from google chrome, we are using a new selector that will call upon the input [type=text] we can call on any types
+
