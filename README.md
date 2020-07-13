@@ -173,3 +173,5 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 131. Creat the styles for the text area and for the send it button to make the button look similar to the rest on the page using styles that we have already created
 132. Creat some space around the check box for the newsletter and remove the defaulted styles from google chrome, we are using a new selector that will call upon the input [type=text] we can call on any types
 
+133. Begin building the footer for the webpage, creating two naviagtion in the footer, and further the practice with using the icons
+134. 
