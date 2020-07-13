@@ -159,4 +159,4 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 120. Create ths styles for the icons usingh the class that we have already created, using the icon small class, as well learn a new tool that will allow us for multiline styling, and multiline editing
 
 121. Create the box shadow property within the css for create within the plan-box class, there are four value inputs for this property, x value, y value, blur and color are all the input values needed,
-122. Create the contact form for the seventh section of the web page, 
+122. Create the contact form for the seventh section of the web page, creat the form with the element, strat building in the info that we need to fill the content areas
