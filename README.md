@@ -162,3 +162,10 @@ A project build: Use a client ticket to build those requests. Self-Taught Contin
 122. Create the contact form for the seventh section of the web page, create the form element, with the form tag we must rememeber that there are two attributes that must be assigned with the element: the method and the action of the element, in this case we did define these attributes, we will learn these more in another language type for the understanding of these attributes and values
 123. Use a style for the columns in a way that instead of the columns breaking down into equal parts such 3 containers equally built and spaces on the page, we can use the columns selector for three. however, we can build one column in a way that one column will build into one unit and one column will build into two units making total of those three units/ columns
 124. Using the elements that are to build the form for this section. form element, label element and the input element. input element is self closing
+
+125. Create all comments within the html file to keep the file understandable now that we have a lot of code running in the html file
+126. Create the form labels and inputs building the beginning of the form, asking for the name and the email input within the form using the label and input elements, 
+127. Create a drop down box within the web page to show multiple selections for this label, apply multiple answers to choose from within the form
+128. Create the text area container for a larger text box to type and to send an emailed message to the link set to our send it button, create the send it button 
+
+129. 
