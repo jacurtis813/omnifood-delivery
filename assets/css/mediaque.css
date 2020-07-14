@@ -3,10 +3,10 @@
     .hero-text-box {
         position: absolute;
         width: 100%;
-        padding: 0 3%;
+        padding: 0% 3%;
     }
 
-    .row {padding: 0 3%;}
+    .row {padding: 0% 3%;}
 }
 
 /* Small tablets to larger tablets: from 768px to 1023px */
@@ -14,14 +14,14 @@
     body { font-size: 18px; }
 
     .hero-text-box {
-        padding: 0 5%;
+        padding: 0% 5%;
     }
 
     section { padding: 60px 0; }
 
     .long-copy {
         width: 80%;
-        margin: 0 10%;
+        margin: 0% 10%;
         text-align: center;
     }
 
@@ -45,7 +45,7 @@
 
     .plan-box {
         width: 100%;
-        margin-left: 0;
+        margin-left: 0%;
     }
 
     .plan-price {
@@ -70,7 +70,45 @@
 
 /* Larger phones and smaller tablet: from 481px to 767px*/
 @media only screen and (max-width: 767px) {
+    body { font-size: 16px; }
 
+    .hero-text-box { padding: 0 7.5%; }
+
+    section { padding: 30px 0; }
+
+    .row { padding: 0 4%; }
+
+    .col { 
+        width: 100%; 
+        margin: 1% 0% 1% 1.6%;
+    }
+
+    .main-nav { display: none; }
+
+    h1 { font-size: 180%; }
+    h2 { font-size: 150%; }
+
+    .long-copy { 
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    .app-screen { width: 35%; }
+
+    .steps-box img {
+        margin-right: 32%;
+    }
+
+    .works-step { margin-bottom: 35px; }
+    .works-step:last-of-type { margin-bottom: 30px; }
+
+    .works-step div {
+        height: 40px;
+        width: 40px;
+        padding: 4px;
+        margin-right: 15px;
+        font-size: 120%;
+    }
 }
 
 /* Small phones: from 0 to 480px */

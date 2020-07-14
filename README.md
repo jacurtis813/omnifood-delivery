@@ -194,3 +194,7 @@ All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 wit
 150. Begin creating the styles for the breakpoints in the web page between 1023-768px, set those styles and test each section of code that we are adjusting using the same technique of media queries. style a good section of the page in lecture one, continue on to the second lecture to complete
 151. Continue breaking the page to find the elements that need to be adjusted within our media queries css file, start with the steps section or the how it works section, removing some white space and resizing the image
 152. Continue to style the mediaquery for the 1023-768px of laptops to large tablets, complete the styling for these devices to make the web page layout responsive
+
+153. Begin creating the styles for the screen size of 767-481px, copy the class selectors from our main css style sheet that we are going to need to adjust. Adjusting to be responsive with more devices 
+154. Contiue walking trhough each section within the browser to break the page down to find the sections that we need to style better to fit a specific device 767-481px continued
+155. 
