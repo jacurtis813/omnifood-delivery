@@ -183,3 +183,6 @@ All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 wit
 138. Create the styles for the footer nav class and the social nav class that are within the footer navigations
 139. Create in depth styling to the unordered list at the footer to creat the spacing that we want to properly fit the container of which holds the content, using the psuedo selector to assign the properties and values needed. hover, active, link, and visited
 140. Create further psuedo selectors for the hover and active psuedo classes for the footer nav and the social nav links, apply class to the author name of th web page
+
+141. Begin styling the icons for the social media sites within the footer section, these styles we will attempt to mock the color of their logos, create the classes first before we begin the styles
+142. 
