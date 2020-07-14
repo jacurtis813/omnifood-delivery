@@ -185,4 +185,10 @@ All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 wit
 140. Create further psuedo selectors for the hover and active psuedo classes for the footer nav and the social nav links, apply class to the author name of th web page
 
 141. Begin styling the icons for the social media sites within the footer section, these styles we will attempt to mock the color of their logos, create the classes first before we begin the styles
-142. 
+142. Adjust the margin and the padding in the footer paragraph to bring the entire footer together
+143. We have only built the web page based on the fluid grid system, which means that our web page is not entirely responsive
+144. Next section we will begin to make the site responsive among all devices even the smart phones and tablets
+
+145. Using media queries and breakpoints for specific devices, create a new file calling the media queries for the styling and resizing of the web page for all different sizes
+146. Begin structuring our css file for the mediaqueries, we will use these points that we have created as the main breakpoints for each device 
+147. 
