@@ -197,4 +197,5 @@ All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 wit
 
 153. Begin creating the styles for the screen size of 767-481px, copy the class selectors from our main css style sheet that we are going to need to adjust. Adjusting to be responsive with more devices 
 154. Contiue walking trhough each section within the browser to break the page down to find the sections that we need to style better to fit a specific device 767-481px continued
-155. 
+155. Copy and paste the property and value from the col class and create the style that we wish to have for the margin within that mediaque, thise giving us the correct spacing within the pricing box content, responsive web design- this will inherit with all the elements that hold the col class
+156. Complete the styles for the last two sections on my own, 767-481px and 480-0px designed by myself. Completed
