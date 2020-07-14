@@ -2,10 +2,6 @@
 A project build: Use a client ticket to build those requests. Self-Taught Continued
 All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 with Jonas Schmedtmann, code along and apply a little of your own style to the page.
 
-## Requests:
-
-* Would like the site to use an orange color scheme
-* Would like to use the font style of 'lato'
 
 ## Breakdown/ What we have done?
 

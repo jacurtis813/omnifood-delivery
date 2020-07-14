@@ -13,6 +13,10 @@
 @media only screen and (max-width: 1023px) {
     body { font-size: 18px; }
 
+    .hero-text-box {
+        padding: 0 5%;
+    }
+
     section { padding: 60px 0; }
 
     .long-copy {
@@ -34,7 +38,7 @@
     }
 
     .city-feature { 
-        font-size: 85%;
+        font-size: 75%;
         padding-right: 2%;
         padding-left: 2%;
     }
@@ -48,9 +52,20 @@
         font-size: 225%;
     }
 
+    .plans-include {
+        font-size: 85%;
+    }
+
     .contact-form {
         width: 80%
     }
+
+    .footer-nav,
+    .social-nav {
+        font-size: 88%;
+    }
+
+
 }
 
 /* Larger phones and smaller tablet: from 481px to 767px*/
