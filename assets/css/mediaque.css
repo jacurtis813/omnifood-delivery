@@ -12,11 +12,44 @@
 /* Small tablets to larger tablets: from 768px to 1023px */
 @media only screen and (max-width: 1023px) {
     body { font-size: 18px; }
+
     section { padding: 60px 0; }
+
     .long-copy {
         width: 80%;
         margin: 0 10%;
         text-align: center;
+    }
+
+    .steps-box { margin-top: 10px; }
+    .steps-box:last-child { margin-top: 20px; }
+    .work-step { margin-bottom: 40px; }
+    .works-step:last-of-type { margin-bottom: 60px; }
+
+    .app-screen { width: 50%; }
+
+    .icon-small { 
+        width: 18px; 
+        margin-right: 10px;
+    }
+
+    .city-feature { 
+        font-size: 85%;
+        padding-right: 2%;
+        padding-left: 2%;
+    }
+
+    .plan-box {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .plan-price {
+        font-size: 225%;
+    }
+
+    .contact-form {
+        width: 80%
     }
 }
 
