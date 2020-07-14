@@ -193,3 +193,6 @@ All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 wit
 146. Begin structuring our css file for the mediaqueries, we will use these points that we have created as the main breakpoints for each device 
 147. Start with setting the meta tag within the head element of the page, we will then give and fill the attributes needed to make the webpage responsive
 148. We will begin creating the mediaqueries that are needed for the pages breakpoints, resize the page to see when the element began to break or look unpleasant
+
+149. Create the styles for the breakpoints in the webpage between 1200-1024px, set those styles and test the code for those screen sizes. They are working great
+150. Begin creating the styles for the breakpoints in the web page between 1023-768px, set those styles and test each section of code that we are adjusting using the same technique of media queries. style a good section of the page in lecture one, continue on to the second lecture to complete
