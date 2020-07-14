@@ -127,7 +127,7 @@
     }
 }
 
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 649px) {
     .footer-nav {
         font-size: 85%;
         margin-left: 20%;
@@ -182,31 +182,5 @@
     .social-nav {
         margin-top: 5%;
         margin-right: 15%;
-    }
-}
-
-
-@media only screen and (max-width: 330px) {
-    body {
-        font-size: 12px;
-    }
-
-    section {
-        padding: 15px 0;
-    }
-
-    .contact-form {
-        width: 100%;
-    }
-
-    .footer-nav {
-        font-size: 35%;
-        margin-left: 15%;
-    }
-
-    .social-nav {
-        font-size: 50%;
-        margin-top: 5%;
-        margin-right: 25%;
     }
 }
