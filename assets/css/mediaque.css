@@ -145,4 +145,13 @@
         font-size: 90%;
         text-align: center;
     }
+
+.footer-nav {
+    margin-left: 10%;
+}
+
+    .social-nav {
+        margin-top: 5%;
+        margin-right: 30%;
+    }
 }
