@@ -117,16 +117,20 @@
     }
 }
 
-/*
-
-
-    
-
-    
-
-    .city-feature {
-        font-size: 100%;
+@media only screen and (max-width: 480px) {
+    section {
+        padding: 25px 0;
     }
 
-    
-*/
+    .contact-form {
+        width: 100%;
+    }
+
+    .footer-nav {
+        font-size: 65%;
+    }
+
+    .social-nav {
+        margin-right: 25%;
+    }
+}
