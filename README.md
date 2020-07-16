@@ -212,4 +212,15 @@ All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 wit
 
 165. Create the sticky navigation so that when the user scrolls beyond the header the navigation will scroll along with the user within the page
 166. Begin with creating a new class within the nav element in this case we are using the main nav, create the style selector in the style.css file, use the property of position and value of fixed, after the position we must call the position in which we would like the nav to be fixed and we would like it to remain in the 'very' top left of the page when scrolling within the page
-167. 
+167. Once we have created the classes that we would like to be within our sticky navigation we can now begin building code in our js file now we will be styling the page to become reactive with the user, now using js and jquery
+168. Test and run the code that we have now formatted within all files, html, css, and the js file that we have both created and the js files that we have linked within the body element of our page.
+
+169. Now we will begin working with a new property in the css file called the z index which will help us with our vertical stacking within the html file of the element stacking, we used the highest possible value that way tis element is on top
+170. Now we will begin making the buttons within the webpage more reactive with the user on the landing page, starting with the main buttons in our header section or the hero
+171. Create the animation for the first button in the header of the hero text box for the I'm Hungry button, test and run the code that we have written for the animation for the first button
+172. Create the animation for the second button in the header of the hero text box for the Show Me More button, test and run the code that we have written for the animation for the second button
+
+173. Begin creating the animation for the navigation menu selection tabs in the header of the main, create the navigation function so that when clicking the tab the action/ function of the dropdown will happen
+174. Create the function within the javascript file, copy the jquert from css tricks to call by the id selector of those tabs within the menu navigation
+175. Set the ids for all the menu tabs within the main navigation header, after creating the id names we will call those by the octothorp placed before the id name within the tab or what is the list element of the ul- unordered list
+176. Test and run all four of the menu tabs/ better known as the list elements within the unordered list. save and commit all changes within these files 
