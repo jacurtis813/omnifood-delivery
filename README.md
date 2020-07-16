@@ -199,3 +199,9 @@ All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 wit
 154. Contiue walking trhough each section within the browser to break the page down to find the sections that we need to style better to fit a specific device 767-481px continued
 155. Copy and paste the property and value from the col class and create the style that we wish to have for the margin within that mediaque, thise giving us the correct spacing within the pricing box content, responsive web design- this will inherit with all the elements that hold the col class
 156. Complete the styles for the last two sections on my own, 767-481px and 480-0px designed by myself. Completed
+
+157. After creating the media queries for our breakpoints within the web page we are moving into the next section of using javascript files and our own js file within our page
+158. We will begin by finding all the files that we need for this project, properly linking them in the body element of the html file this allowing the scripts to be calle on after the web page has rendered
+159. Create our own script.js file that we will begin to both learn how to format and understand how to format the script file
+160. Correct the formatting within all the files for the webpage, save all content test and run what code we now have embeded
+
