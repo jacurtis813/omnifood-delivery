@@ -224,3 +224,8 @@ All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 wit
 174. Create the function within the javascript file, copy the jquert from css tricks to call by the id selector of those tabs within the menu navigation
 175. Set the ids for all the menu tabs within the main navigation header, after creating the id names we will call those by the octothorp placed before the id name within the tab or what is the list element of the ul- unordered list
 176. Test and run all four of the menu tabs/ better known as the list elements within the unordered list. save and commit all changes within these files 
+
+177. Begin building further animations with css and jquery within our web page
+178. Create the animation for the fadeIn class from the animate.css file that we have link -ed in to the html file so that the browser will call for the styles we want to use rather than every single style
+179. Create the animation for all four sections that we discussed of giving animation for our html file to make more reactive for the user
+180. Complete the animation creations for each of our section. Test and run all the code to make sure that everything is working as it should, save and commit

@@ -547,6 +547,31 @@ footer p {
 
 
 /*----------------------------*/
+/* Animation styles */
+/*----------------------------*/
+.js--wp-1,
+.js--wp-2,
+.js--wp-3 {
+    opacity: 0;
+    -webkit-animation-duration: 1s;
+            animation-duration: 1s;
+}
+
+.js--wp-4 {
+    opacity: 1;
+    -webkit-animation-duration: 1s;
+            animation-duration: 1s;
+}
+
+.js--wp-1animate__animated,
+.js--wp-2animate__animated,
+.js--wp-3animate__animated,
+.js--wp-4anitmate__animated{
+    opacity: 1;
+}
+
+
+/*----------------------------*/
 /* Icon Content */
 /*----------------------------*/
 .icon-big {
