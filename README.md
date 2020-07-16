@@ -229,3 +229,7 @@ All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 wit
 178. Create the animation for the fadeIn class from the animate.css file that we have link -ed in to the html file so that the browser will call for the styles we want to use rather than every single style
 179. Create the animation for all four sections that we discussed of giving animation for our html file to make more reactive for the user
 180. Complete the animation creations for each of our section. Test and run all the code to make sure that everything is working as it should, save and commit
+
+181. Begin creating the mobile responsiveness of the web page for smaller smart phones and smaller screen tablets 768px-
+182. Create the icon for the small icon menu for mobile phones, create the css style for that icon and then create the mediaqueries for those screen sizes to format the icon to appear
+183. 
