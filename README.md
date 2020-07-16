@@ -209,3 +209,7 @@ All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 wit
 162. Create our link for the js file that we have created so that the script can be called on within the browser, just as we would with the css files. Attach all script files together just before the closing body element
 163. Test and run our first line of javascript with jquery, within the html file to see that the function is working properly. All working as the function should
 164. We will then begin creating the real world interactive js and jquery within the html file, creating what is known as the sticky navigation
+
+165. Create the sticky navigation so that when the user scrolls beyond the header the navigation will scroll along with the user within the page
+166. Begin with creating a new class within the nav element in this case we are using the main nav, create the style selector in the style.css file, use the property of position and value of fixed, after the position we must call the position in which we would like the nav to be fixed and we would like it to remain in the 'very' top left of the page when scrolling within the page
+167. 
