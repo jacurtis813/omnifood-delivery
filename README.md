@@ -205,3 +205,7 @@ All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 wit
 159. Create our own script.js file that we will begin to both learn how to format and understand how to format the script file
 160. Correct the formatting within all the files for the webpage, save all content test and run what code we now have embeded
 
+161. Create our first basic line of javascript to assign within our html and css files
+162. Create our link for the js file that we have created so that the script can be called on within the browser, just as we would with the css files. Attach all script files together just before the closing body element
+163. Test and run our first line of javascript with jquery, within the html file to see that the function is working properly. All working as the function should
+164. We will then begin creating the real world interactive js and jquery within the html file, creating what is known as the sticky navigation
