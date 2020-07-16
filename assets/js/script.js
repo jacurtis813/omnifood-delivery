@@ -5,6 +5,8 @@ $(document).ready(function () {
         } else {
             $('nav').removeClass('sticky');
         }
+    }, {
+        offset: '60px;'
     });
 /*
     var waypoints = $('#handler-first').waypoint(function (direction) {
