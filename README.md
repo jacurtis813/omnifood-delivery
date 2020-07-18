@@ -235,4 +235,8 @@ All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 wit
 183. Continue to create the respected style properties to complete the styling for mobile responsiveness, after styling the css properties, we will create the styles that we need for when the screen size breaks- small mobile phones to create a cleaner menu and main navigation within the header of the page
 184. Both create and remove style properties that are inherited from the css style sheets, removing styles, adjusting current styles and add new styles depending on the breakpoints within the html file or in other words our landing page
 
-185. 
+185. Begin creating the styles needed to make adjustments to the sticky navigation when in a mobile phone layout/ screen size
+186. Once we have the styles created for the sticky navigation we will then create the styles needed for the menu icon that will be formatted for the small mobile phone screen sizes
+187. Now that we have the list within the unordered list/ the menu tab selectors within the main nav header of the web page, completely styled within the style.css and the mediaqueries.css file we will begin creating the jquery within the jscript file to make the icon button work when the user clicks the menu icon on the web page
+188. Test and run all the code that we have now created within the css files (all), use the google chrome dev tools to inspect the web page, break the page down and test the newly created mediaqueries
+

@@ -82,9 +82,8 @@
         margin: 1% 0% 1% 1.6%;
     }
 
-    /* COMMENTED OUT
     .main-nav { display: none; }
-    */
+    
     .mobile-nav-icon {
         display: inline-block;
     }
@@ -108,12 +107,20 @@
     }
 
     .sticky .main-nav {
-        margin-top: 18px;
+        margin-top: 10px;
     }
     
     .sticky .main-nav li a:link,
     .sticky .main-nav li a:visited {
         padding: 10px 0;
+    }
+
+    .sticky .mobile-nav-icon {
+        margin-top: 10px;
+    }
+
+    .sticky .icon-mobile {
+        color: #555;
     }
     
     h1 { font-size: 180%; }
