@@ -250,4 +250,8 @@ All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 wit
 195. Next we will learn how to optimize our images within our web page, how to? Start with the image dimensions to resize for optimization, resize all the cities images within the html file
 196. Optimize the images within the the hero or the jumbotron of the web page and optimize the image within the testimonial section
 
-197. 
+197. Search engine optimization, techniques that improve and promote a website to increase the number of visitors the site receives from search engines
+198. We will now get the full understanding of what the meta tag is used for, normally used to describe the webpage- helping advertise (No more than 160 characters)
+199. Run the html code through the html validator to double check our html file for any errors that need to be corrected
+200. Always be sure that your content is king, review and revise content always, use keywords within the content with the head meta tag and the image tags
+
