@@ -240,3 +240,6 @@ All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 wit
 187. Now that we have the list within the unordered list/ the menu tab selectors within the main nav header of the web page, completely styled within the style.css and the mediaqueries.css file we will begin creating the jquery within the jscript file to make the icon button work when the user clicks the menu icon on the web page
 188. Test and run all the code that we have now created within the css files (all), use the google chrome dev tools to inspect the web page, break the page down and test the newly created mediaqueries
 
+189. Now we will begin creatin the jquery within the javascript file, first we will begin by setting new classes to select from within the js file, set those classes within the respected areas for the navigation that we are going to create the jquery for
+190. Once we have created the classes within the html file, we will then create the jquery for the navigation so that when the icon is clicked the menu tab selectors will open up in the main navigation and in the sticky navigation
+191. 

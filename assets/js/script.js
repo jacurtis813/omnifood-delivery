@@ -82,4 +82,12 @@ $(document).ready(function () {
         }, {
             offset: '50%'
         });
+
+        /* Menu icon for the smaller mobile phone screen sizes */
+        $('.js--nav-icon').click(function() {
+            var nav = $('.js--main-nav'); 
+
+            nav.slideToggle(200)
+        });
+
 });
