@@ -69,8 +69,8 @@ h3 {
 /* Header Content */
 /*----------------------------*/
 header {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(#000)), url(../images/hero.jpg);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), #000), url(../images/hero.jpg);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(#000)), url(../images/hero-min.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), #000), url(../images/hero-min.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -334,8 +334,8 @@ h2:after {
 /* Testimonial Content */
 /*----------------------------*/
 .section-testimonials {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.8))), url(../images/back-customers.jpg);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url(../images/back-customers.jpg);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.8))), url(../images/back-customers-min.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url(../images/back-customers-min.jpg);
     background-size: cover;
     background-attachment: fixed;
     color: #fff;

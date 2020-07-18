@@ -247,4 +247,7 @@ All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 wit
 
 193. Before we test and run our landing page for optimization we will first create the favicon of the web page, create an icon that will generate across all browsers and all devices
 194. Utilize the web site of generate favicon for web page, once we have created the favicon we must copy the link elements and the meta elements that have been generated for use with all devices and across all browsers that we have selected. Once we have all of our code copied and linked within the html head element to be used, we can also extract all the .png and .svg files that are used for the favicons to be stored within our own file to be called on for use
-195. 
+195. Next we will learn how to optimize our images within our web page, how to? Start with the image dimensions to resize for optimization, resize all the cities images within the html file
+196. Optimize the images within the the hero or the jumbotron of the web page and optimize the image within the testimonial section
+
+197. 
