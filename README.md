@@ -255,3 +255,12 @@ All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 wit
 199. Run the html code through the html validator to double check our html file for any errors that need to be corrected
 200. Always be sure that your content is king, review and revise content always, use keywords within the content with the head meta tag and the image tags
 
+201. Launching the webpage, choose or buy the domain name, of course I will be using the github account that can be used to upload the webpage (recs. go daddy to host the websites)
+202. Use the walk through video on how to use the godaddy website to host a webpage, of course we will continue to use the github services for obvious reasons, this will be demo page this will not be an active web page for users, creative pruposes only
+203. Next we will learn how to track the users behavior so that way we know a little bit more about the web page and the user interface, this is known as the google anaylytics. how to?
+204. Gain the understanding of how to maintain the web site, using the data to mold a better site for the users that cotntinue to visit the web page 
+
+205. Go to google analytics, create the account that we would like to use- accessing the web pages that we are requesting data from
+206. Create the account and then create the url link that we would like to begin to track, fill out the information and then click (get tracking id)
+207. Copy the script that is created for us, copy the script file and drop within the body of the html file, if we have multiple pages we will need to add to all the html files that we are wanting to track
+208. Final step, test and run the code that has been created and then we can even view the stats within the google analytics account that we have created 
