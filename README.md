@@ -242,4 +242,9 @@ All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 wit
 
 189. Now we will begin creatin the jquery within the javascript file, first we will begin by setting new classes to select from within the js file, set those classes within the respected areas for the navigation that we are going to create the jquery for
 190. Once we have created the classes within the html file, we will then create the jquery for the navigation so that when the icon is clicked the menu tab selectors will open up in the main navigation and in the sticky navigation
-191. 
+191. Create the jquery that we would like to use within the main navigation of the menu within the header to make the menu resposive with the use of the js file
+192. Now that we have created all the styles needed to make our landing page mobile responsive we will next test our landing page for optimization and the complete steps of launching our landing page
+
+193. Before we test and run our landing page for optimization we will first create the favicon of the web page, create an icon that will generate across all browsers and all devices
+194. Utilize the web site of generate favicon for web page, once we have created the favicon we must copy the link elements and the meta elements that have been generated for use with all devices and across all browsers that we have selected. Once we have all of our code copied and linked within the html head element to be used, we can also extract all the .png and .svg files that are used for the favicons to be stored within our own file to be called on for use
+195. 
