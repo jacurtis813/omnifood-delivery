@@ -232,4 +232,7 @@ All Content Used within this Repo is from the Udemy course of HTML5 and CSS3 wit
 
 181. Begin creating the mobile responsiveness of the web page for smaller smart phones and smaller screen tablets 768px-
 182. Create the icon for the small icon menu for mobile phones, create the css style for that icon and then create the mediaqueries for those screen sizes to format the icon to appear
-183. 
+183. Continue to create the respected style properties to complete the styling for mobile responsiveness, after styling the css properties, we will create the styles that we need for when the screen size breaks- small mobile phones to create a cleaner menu and main navigation within the header of the page
+184. Both create and remove style properties that are inherited from the css style sheets, removing styles, adjusting current styles and add new styles depending on the breakpoints within the html file or in other words our landing page
+
+185. 
